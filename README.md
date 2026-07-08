@@ -98,7 +98,7 @@ dbconnection.jsp
 ```java
 String dbURL = "jdbc:mysql://localhost:3306/digital_vehicle_system";
 String dbUser = "root";
-String dbPassword = "YOUR_PASSWORD";
+String dbPassword = "**********";
 ```
 
 6. Run the project on Tomcat.
