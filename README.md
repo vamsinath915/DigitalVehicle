@@ -13,7 +13,7 @@ Digital Vehicle System is a Java Full Stack web application developed using JSP,
 - View Learning License Applications
 - Approve/Reject Applications
 
-### 👤 User Module
+###  User Module
 - User Registration
 - User Login
 - Apply for Learning License
@@ -21,7 +21,7 @@ Digital Vehicle System is a Java Full Stack web application developed using JSP,
 - View Application Status
 - Update Profile
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - JSP
@@ -35,7 +35,7 @@ Digital Vehicle System is a Java Full Stack web application developed using JSP,
 - Eclipse IDE
 - Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 DigitalVehicle
@@ -56,7 +56,7 @@ DigitalVehicle
 └── pom.xml (if Maven project)
 ```
 
-## 💾 Database
+##  Database
 
 Database Name
 
@@ -66,7 +66,7 @@ digital_vehicle_system
 
 Import the SQL file into MySQL before running the project.
 
-## ⚙️ Software Requirements
+##  Software Requirements
 
 - JDK 17 or above
 - Eclipse IDE
@@ -75,7 +75,7 @@ Import the SQL file into MySQL before running the project.
 - MySQL Connector/J
 - Git
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -103,7 +103,7 @@ String dbPassword = "YOUR_PASSWORD";
 
 6. Run the project on Tomcat.
 
-## 🌐 Application URL
+##  Application URL
 
 ```
 http://localhost:8080/DigitalVehicle/
@@ -115,15 +115,25 @@ or
 http://localhost:8080/DigitalVehicle/jspcode/adminLogin.jsp
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
-You can add screenshots here.
+<img width="1916" height="847" alt="Screenshot 2026-05-13 101355" src="https://github.com/user-attachments/assets/a1529a2b-e69b-4617-a890-984d26015504" />
+<img width="1887" height="924" alt="Screenshot 2026-05-13 101842" src="https://github.com/user-attachments/assets/3d3c7fa9-639b-4bd9-9540-6fc967233599" />
+<img width="1879" height="924" alt="Screenshot 2026-05-13 101900" src="https://github.com/user-attachments/assets/dd866022-e1ed-4ecb-b9f7-9342a24f9d5f" />
+<img width="1880" height="885" alt="Screenshot 2026-05-13 121826" src="https://github.com/user-attachments/assets/895b89a6-ba84-4dfd-a03e-d3e04227786a" />
+<img width="1885" height="908" alt="Screenshot 2026-05-13 115311" src="https://github.com/user-attachments/assets/bef26db8-4352-4efb-9e00-b9a56463f9d9" />
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/3fcc4e0d-2e8b-4bac-be22-f88a12eaf7af" />
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/e0063ffb-f051-438c-a8ad-6ea9daed1ba3" />
+
+
+
+
+
+
 
 ```
-screenshots/
-```
 
-## 📖 Future Enhancements
+##  Future Enhancements
 
 - Email Notifications
 - OTP Verification
@@ -133,16 +143,13 @@ screenshots/
 - Responsive UI
 - Spring Boot Migration
 
-## 👨‍💻 Author
+## Author
 
 **Vamsi Nath**
 
 GitHub:
 https://github.com/vamsinath915
 
-LinkedIn:
-(Add your LinkedIn profile link)
 
----
 
 ⭐ If you found this project useful, don't forget to star the repository.
